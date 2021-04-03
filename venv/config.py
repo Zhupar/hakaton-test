@@ -1,0 +1,3 @@
+SLACK_TOKEN = {
+    'TestSlackBot': 'xoxb-1901386753110-1914773166133-ZV2AvfnemwZSM3Ow1RdrIAZG',
+}
